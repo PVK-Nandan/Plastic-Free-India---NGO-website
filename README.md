@@ -23,7 +23,21 @@ Your website translates this mission into a dynamic and interactive experience, 
 - Mobile-friendly design: Fully responsive layout on all devices
 - Clear navigation: Separate pages for each section (Home, Campaign, Involve, etc.)
 
-lang="md" ## 📂 Repository Structure ``` / ├── index.html ← Home page with highlights ├── campaign.html ← Details of the Plastic Free India campaign ├── involve.html ← How to participate (volunteer, donations, events) ├── gallery.html ← Image gallery ├── blog.html ← Blog listing & posts ├── faq.html ← Frequently Asked Questions ├── calculator.html ← Plastic Footprint Calculator tool ├── contact.html ← Contact & volunteer form ├── assets/ ← CSS, JS, and images │ ├── css/ │ └── js/ └── README.md ← This file ``` 
+## 📂 Repository Structure
+/
+├── index.html ← Home page with highlights
+├── campaign.html ← Details of the Plastic Free India campaign
+├── involve.html ← How to participate (volunteer, donations, events)
+├── gallery.html ← Image gallery
+├── blog.html ← Blog listing & posts
+├── faq.html ← Frequently Asked Questions
+├── calculator.html ← Plastic Footprint Calculator tool
+├── contact.html ← Contact & volunteer form
+├── assets/ ← CSS, JS, and images
+│ ├── css/
+│ └── js/
+└── README.md ← This file
+
 
 # 💻 Technologies Used
 Technology             	Purpose
