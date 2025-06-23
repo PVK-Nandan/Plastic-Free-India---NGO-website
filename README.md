@@ -1,11 +1,11 @@
 # 🧩 Plastic Free India
 A real-time awareness and engagement platform for the “Plastic Free India” campaign run by India Youth for Society (IYFS).
 
-[🌐 Visit the Live Website](https://plasticfreeindia.org)
+🌐 Live Website: [plasticfreeindia.org](https://plasticfreeindia.org)
 
 <p align="center">
-  <img src="screenshots/Homepage.png" alt="Homepage" width="100%" />
-  <img src="screenshots/Contactpage.png" alt="Contact Page" width="100%" />
+  <img src="Screenshots/Homepage.png" alt="Homepage" width="100%" />
+  <img src="Screenshots/Contactpage.png" alt="Contact Page" width="100%" />
 </p>
 
 # 🌍 Project Overview
