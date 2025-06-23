@@ -1,7 +1,12 @@
 # 🧩 Plastic Free India
 A real-time awareness and engagement platform for the “Plastic Free India” campaign run by India Youth for Society (IYFS).
 
-- Live site: plasticfreeindia.org
+[🌐 Visit the Live Website](https://plasticfreeindia.org)
+
+<p align="center">
+  <img src="screenshots/Homepage.png" alt="Homepage" width="100%" />
+  <img src="screenshots/Contactpage.png" alt="Contact Page" width="100%" />
+</p>
 
 # 🌍 Project Overview
 - Plastic Free India is an initiative by India Youth for Society (est. 2011) that aims to raise environmental awareness and mobilize communities to reduce single-use plastic usage. The campaign educates users on laws, recycling, alternatives, and sustainable practices
@@ -11,14 +16,14 @@ Your website translates this mission into a dynamic and interactive experience, 
 - Plastic Footprint Calculator: Estimate your personal plastic usage
 - Responsive Frontend: Built purely using HTML, CSS, and JavaScript
 
-#🚀 Features
+# 🚀 Features
 - Real-time content delivery: Live blog posts and image gallery updates
 - Calculator tool: Helps users assess their plastic footprint
 - Engagement forms: Lets users inquire, volunteer, and share suggestions
 - Mobile-friendly design: Fully responsive layout on all devices
 - Clear navigation: Separate pages for each section (Home, Campaign, Involve, etc.)
 
-#📂 Repository Structure
+# 📂 Repository Structure
 /
 ├── index.html           ← Home page with highlights
 ├── campaign.html        ← Details of the Plastic Free India campaign
@@ -40,10 +45,10 @@ Technology             	Purpose
  JavaScript	            Interactivity & calculator logic
 (No backend frameworks used yet)	
 
-#📫 Contact
+# 📫 Contact
 For feedback or volunteering, drop a message via LinkedIn
 
-#📝 Acknowledgments
+# 📝 Acknowledgments
 - India Youth for Society (IYFS) for the campaign concept and content
 - Inspiration for content structure: FAQ section
 
