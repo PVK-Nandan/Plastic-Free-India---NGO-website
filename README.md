@@ -43,12 +43,14 @@ Your website translates this mission into a dynamic and interactive experience, 
 
 
 
-# 💻 Technologies Used
-Technology             	Purpose
- HTML	                  Structure and content
- CSS	                  Styling and responsive design
- JavaScript	            Interactivity & calculator logic
-(No backend frameworks used yet)	
+## 💻 Technologies Used
+
+| Technology | Purpose                            |
+|------------|------------------------------------|
+| HTML       | Structure and content              |
+| CSS        | Styling and responsive design      |
+| JavaScript | Interactivity & calculator logic   |
+
 
 # 📫 Contact
 For feedback or volunteering, drop a message via [LinkedIn](https://www.linkedin.com/in/nandan-pakki-v-k-01639b253)
